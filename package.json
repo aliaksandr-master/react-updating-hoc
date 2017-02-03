@@ -1,0 +1,36 @@
+{
+  "name": "react-updating-hoc",
+  "version": "1.0.0",
+  "description": "small HOC for implementing update on props changing",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "npm run jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aliaksandr-master/react-updating-hoc.git"
+  },
+  "keywords": [
+    "update",
+    "load",
+    "async",
+    "action",
+    "did",
+    "mount",
+    "componentDidMount",
+    "componentWillReceiveProps",
+    "component",
+    "props",
+    "change",
+    "changing"
+  ],
+  "author": "alxe.master@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aliaksandr-master/react-updating-hoc/issues"
+  },
+  "homepage": "https://github.com/aliaksandr-master/react-updating-hoc#readme",
+  "devDependencies": {
+    "react": "^15.4.2"
+  }
+}
