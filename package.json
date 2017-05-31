@@ -31,6 +31,11 @@
   },
   "homepage": "https://github.com/aliaksandr-master/react-updating-hoc#readme",
   "devDependencies": {
-    "react": "^15.4.2"
+    "lodash": "^4.17.4",
+    "recompose": "^0.23.4"
+  },
+  "peerDependencies": {
+    "lodash": "^4.17.4",
+    "recompose": "^0.23.4"
   }
 }
