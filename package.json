@@ -1,6 +1,6 @@
 {
   "name": "react-updating-hoc",
-  "version": "2.1.1",
+  "version": "2.2.0",
   "description": "small HOC for implementing update on props changing",
   "main": "lib/index.js",
   "scripts": {
